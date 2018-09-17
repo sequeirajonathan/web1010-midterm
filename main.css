@@ -1,0 +1,19 @@
+h1 {
+    color: dodgerblue;
+}
+
+.colleges {
+    background-color: #c83;
+}
+
+.topics li {
+    list-style: none;
+}
+
+figure img {
+    max-width: 300px;
+}
+
+figure {
+    display: inline-block;
+}
